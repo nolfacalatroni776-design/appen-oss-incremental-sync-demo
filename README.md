@@ -1,4 +1,4 @@
-# 澳鹏标注平台 · 阿里云 OSS 增量同步 Demo
+# 京数·通用能力数据服务平台 · 阿里云 OSS 增量同步 Demo
 
 公开访问：https://nolfacalatroni776-design.github.io/appen-oss-incremental-sync-demo/
 
