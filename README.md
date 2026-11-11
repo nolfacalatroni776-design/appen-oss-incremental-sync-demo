@@ -1,4 +1,4 @@
-# 京数·通用能力数据服务平台 · 阿里云 OSS 增量同步 Demo
+# 京数·通用能力数据服务平台 · S3 协议 增量同步 Demo
 
 公开访问：https://nolfacalatroni776-design.github.io/appen-oss-incremental-sync-demo/
 
@@ -8,4 +8,4 @@
 
 记录与详情提供查询、分页、明细和手动重试；本期不展示文件大小、耗时，不提供记录或清单的下载导出，不自动重试。
 
-页面不连接实际 OSS 或生产接口。
+页面不连接实际 S3 或生产接口。
